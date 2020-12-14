@@ -1,0 +1,1308 @@
+Region,Device Category,PageCategory,Sessions,Pageviews
+Alba,desktop,Solved Problems,976,1891
+Alba,desktop,Algorithms,3560,4819
+Alba,desktop,Landing Pages,395,1277
+Alba,desktop,Other,254,389
+Alba,desktop,Search Result Page,9,106
+Alba,mobile,Baccalaureate Papers,189,315
+Alba,mobile,Algorithms,391,490
+Alba,desktop,Category Page,57,312
+Alba,mobile,Solved Problems,171,312
+Alba,mobile,Data Structures,107,145
+Alba,mobile,Category Page,3,30
+Alba,mobile,Landing Pages,53,191
+Alba,desktop,Baccalaureate Papers,1578,3137
+Alba,mobile,PAWN Scripting,19,23
+Alba,desktop,C# Tutorials,57,84
+Alba,tablet,Algorithms,8,8
+Alba,tablet,Data Structures,10,13
+Alba,mobile,Other,17,22
+Alba,desktop,PAWN Scripting,266,430
+Alba,mobile,C# Tutorials,10,12
+Alba,desktop,Data Structures,943,1263
+Alba,tablet,Solved Problems,7,13
+Alba,mobile,Web Development,14,22
+Alba,desktop,Web Development,51,75
+Alba,tablet,Other,1,2
+Alba,tablet,Baccalaureate Papers,8,12
+Alba,desktop,Author Page,5,27
+Alba,mobile,Search Result Page,0,2
+Alba,tablet,Category Page,2,4
+Alba,tablet,PAWN Scripting,1,1
+Alba,mobile,Author Page,1,4
+Arad,mobile,Data Structures,138,178
+Arad,desktop,Solved Problems,1172,3425
+Arad,desktop,C# Tutorials,93,204
+Arad,mobile,Solved Problems,324,692
+Arad,desktop,Search Result Page,65,1449
+Arad,mobile,Algorithms,481,630
+Arad,desktop,Other,270,435
+Arad,desktop,Landing Pages,499,2450
+Arad,desktop,Algorithms,3636,4801
+Arad,desktop,Baccalaureate Papers,1864,3545
+Arad,mobile,Category Page,13,78
+Arad,mobile,Baccalaureate Papers,264,428
+Arad,desktop,Category Page,50,361
+Arad,desktop,PAWN Scripting,322,492
+Arad,desktop,Data Structures,864,1155
+Arad,mobile,Search Result Page,1,60
+Arad,mobile,Landing Pages,94,305
+Arad,mobile,Other,45,76
+Arad,tablet,Other,1,2
+Arad,tablet,Algorithms,15,19
+Arad,mobile,C# Tutorials,12,25
+Arad,desktop,Author Page,9,45
+Arad,mobile,PAWN Scripting,44,53
+Arad,mobile,Web Development,11,35
+Arad,tablet,Category Page,0,1
+Arad,desktop,Web Development,70,106
+Arad,tablet,Baccalaureate Papers,11,15
+Arad,tablet,Data Structures,4,5
+Arad,tablet,PAWN Scripting,1,1
+Arad,tablet,Landing Pages,0,1
+Arad,tablet,C# Tutorials,2,2
+Arges,desktop,Solved Problems,1165,2699
+Arges,desktop,C# Tutorials,153,250
+Arges,mobile,Solved Problems,247,482
+Arges,desktop,Baccalaureate Papers,1972,3550
+Arges,mobile,Baccalaureate Papers,445,737
+Arges,desktop,Other,426,666
+Arges,desktop,Landing Pages,457,1983
+Arges,desktop,Search Result Page,9,255
+Arges,mobile,Algorithms,837,1136
+Arges,desktop,Data Structures,1359,1816
+Arges,mobile,Category Page,11,88
+Arges,desktop,Algorithms,5731,7605
+Arges,mobile,Data Structures,181,253
+Arges,mobile,Other,84,128
+Arges,tablet,Baccalaureate Papers,11,21
+Arges,mobile,Web Development,27,34
+Arges,desktop,Category Page,107,532
+Arges,desktop,Web Development,119,174
+Arges,mobile,Search Result Page,0,24
+Arges,tablet,Algorithms,25,50
+Arges,desktop,Author Page,4,57
+Arges,tablet,Data Structures,20,26
+Arges,tablet,Category Page,0,7
+Arges,mobile,Landing Pages,123,299
+Arges,desktop,PAWN Scripting,730,1109
+Arges,tablet,PAWN Scripting,3,5
+Arges,tablet,Other,3,4
+Arges,mobile,Author Page,1,7
+Arges,tablet,C# Tutorials,0,2
+Arges,tablet,Solved Problems,2,5
+Arges,tablet,Landing Pages,10,13
+Arges,tablet,Author Page,1,2
+Arges,mobile,PAWN Scripting,88,110
+Arges,mobile,C# Tutorials,12,21
+Arges,tablet,Web Development,4,4
+Bacau,desktop,Solved Problems,1692,4216
+Bacau,desktop,Search Result Page,21,371
+Bacau,desktop,Landing Pages,660,2615
+Bacau,desktop,Baccalaureate Papers,2587,4890
+Bacau,mobile,Search Result Page,2,33
+Bacau,mobile,Solved Problems,249,496
+Bacau,desktop,Other,428,633
+Bacau,tablet,Baccalaureate Papers,7,15
+Bacau,mobile,Algorithms,562,734
+Bacau,desktop,PAWN Scripting,516,884
+Bacau,mobile,PAWN Scripting,50,78
+Bacau,desktop,Data Structures,1230,1702
+Bacau,desktop,Algorithms,6133,8181
+Bacau,tablet,Search Result Page,0,2
+Bacau,mobile,Baccalaureate Papers,357,640
+Bacau,mobile,Other,73,88
+Bacau,desktop,Category Page,127,508
+Bacau,desktop,C# Tutorials,126,195
+Bacau,mobile,Landing Pages,138,323
+Bacau,desktop,Web Development,116,166
+Bacau,tablet,Solved Problems,10,81
+Bacau,tablet,Algorithms,27,31
+Bacau,tablet,Other,4,5
+Bacau,mobile,C# Tutorials,21,34
+Bacau,mobile,Web Development,9,18
+Bacau,tablet,PAWN Scripting,4,5
+Bacau,mobile,Author Page,1,3
+Bacau,mobile,Category Page,12,46
+Bacau,mobile,Data Structures,179,226
+Bacau,tablet,Web Development,1,1
+Bacau,tablet,C# Tutorials,4,5
+Bacau,tablet,Data Structures,5,6
+Bacau,desktop,Author Page,7,44
+Bacau,tablet,Landing Pages,7,70
+Bacau,tablet,Author Page,1,3
+Bihor,mobile,Solved Problems,396,843
+Bihor,mobile,PAWN Scripting,43,52
+Bihor,desktop,Solved Problems,2213,5796
+Bihor,desktop,Search Result Page,64,495
+Bihor,desktop,Landing Pages,540,3154
+Bihor,desktop,Other,351,537
+Bihor,mobile,Web Development,14,21
+Bihor,desktop,Category Page,86,385
+Bihor,desktop,Data Structures,1083,1442
+Bihor,tablet,Category Page,1,3
+Bihor,mobile,Algorithms,472,683
+Bihor,mobile,Other,38,51
+Bihor,desktop,Baccalaureate Papers,1724,3088
+Bihor,desktop,Web Development,93,138
+Bihor,desktop,C# Tutorials,194,295
+Bihor,mobile,C# Tutorials,16,24
+Bihor,mobile,Baccalaureate Papers,245,506
+Bihor,desktop,Algorithms,5012,6894
+Bihor,mobile,Search Result Page,1,53
+Bihor,desktop,PAWN Scripting,326,549
+Bihor,mobile,Landing Pages,119,385
+Bihor,tablet,Solved Problems,7,12
+Bihor,mobile,Data Structures,97,135
+Bihor,tablet,Algorithms,9,11
+Bihor,tablet,Web Development,1,1
+Bihor,tablet,Data Structures,4,4
+Bihor,desktop,Author Page,3,45
+Bihor,mobile,Category Page,13,34
+Bihor,tablet,Baccalaureate Papers,6,7
+Bihor,tablet,C# Tutorials,1,1
+Bihor,tablet,Other,3,3
+Bihor,mobile,Author Page,1,5
+Bistrita-Nasaud,desktop,Landing Pages,615,2548
+Bistrita-Nasaud,mobile,Data Structures,48,69
+Bistrita-Nasaud,desktop,Solved Problems,1295,3478
+Bistrita-Nasaud,mobile,Search Result Page,0,56
+Bistrita-Nasaud,mobile,Solved Problems,311,906
+Bistrita-Nasaud,desktop,Algorithms,2815,3892
+Bistrita-Nasaud,mobile,Other,43,53
+Bistrita-Nasaud,desktop,Baccalaureate Papers,936,1834
+Bistrita-Nasaud,desktop,Search Result Page,26,368
+Bistrita-Nasaud,mobile,PAWN Scripting,33,38
+Bistrita-Nasaud,desktop,C# Tutorials,46,90
+Bistrita-Nasaud,mobile,Algorithms,243,332
+Bistrita-Nasaud,desktop,Other,158,272
+Bistrita-Nasaud,desktop,PAWN Scripting,231,328
+Bistrita-Nasaud,mobile,Landing Pages,116,360
+Bistrita-Nasaud,desktop,Web Development,39,60
+Bistrita-Nasaud,mobile,Category Page,3,23
+Bistrita-Nasaud,desktop,Author Page,1,31
+Bistrita-Nasaud,tablet,Other,2,2
+Bistrita-Nasaud,mobile,Author Page,2,2
+Bistrita-Nasaud,desktop,Data Structures,447,725
+Bistrita-Nasaud,desktop,Category Page,177,537
+Bistrita-Nasaud,tablet,Baccalaureate Papers,3,7
+Bistrita-Nasaud,tablet,Solved Problems,0,2
+Bistrita-Nasaud,mobile,Baccalaureate Papers,108,193
+Bistrita-Nasaud,tablet,PAWN Scripting,1,1
+Bistrita-Nasaud,mobile,Web Development,6,8
+Bistrita-Nasaud,tablet,Algorithms,4,5
+Bistrita-Nasaud,mobile,C# Tutorials,4,4
+Bistrita-Nasaud,tablet,Web Development,2,2
+Bistrita-Nasaud,tablet,Landing Pages,1,2
+Bistrita-Nasaud,tablet,Data Structures,1,1
+Botosani,mobile,Solved Problems,191,455
+Botosani,desktop,Baccalaureate Papers,1312,2468
+Botosani,desktop,Algorithms,3279,4227
+Botosani,desktop,Solved Problems,1044,2722
+Botosani,desktop,Landing Pages,291,1483
+Botosani,mobile,Data Structures,71,90
+Botosani,tablet,Landing Pages,0,6
+Botosani,desktop,Web Development,48,62
+Botosani,desktop,Category Page,49,265
+Botosani,desktop,PAWN Scripting,444,704
+Botosani,desktop,Search Result Page,5,352
+Botosani,desktop,Other,240,329
+Botosani,desktop,Data Structures,660,877
+Botosani,desktop,Author Page,4,23
+Botosani,mobile,Landing Pages,39,143
+Botosani,tablet,Category Page,1,3
+Botosani,mobile,Algorithms,374,489
+Botosani,tablet,Data Structures,11,14
+Botosani,mobile,Category Page,8,28
+Botosani,tablet,Algorithms,40,51
+Botosani,desktop,C# Tutorials,46,86
+Botosani,mobile,Search Result Page,0,22
+Botosani,tablet,PAWN Scripting,1,1
+Botosani,tablet,Baccalaureate Papers,2,4
+Botosani,mobile,Baccalaureate Papers,172,250
+Botosani,mobile,Other,38,46
+Botosani,mobile,PAWN Scripting,74,100
+Botosani,mobile,C# Tutorials,7,8
+Botosani,mobile,Web Development,4,7
+Botosani,tablet,Web Development,1,1
+Botosani,mobile,Author Page,0,2
+Braila,mobile,Other,20,23
+Braila,desktop,Solved Problems,433,1096
+Braila,mobile,PAWN Scripting,29,33
+Braila,desktop,Data Structures,372,506
+Braila,desktop,Search Result Page,1,37
+Braila,mobile,Solved Problems,67,137
+Braila,desktop,Other,121,184
+Braila,tablet,Solved Problems,3,10
+Braila,mobile,Data Structures,37,56
+Braila,desktop,Algorithms,1607,2218
+Braila,tablet,Algorithms,23,26
+Braila,tablet,Landing Pages,1,2
+Braila,desktop,Baccalaureate Papers,590,1264
+Braila,desktop,Category Page,21,165
+Braila,mobile,Baccalaureate Papers,97,157
+Braila,desktop,Landing Pages,158,717
+Braila,mobile,Algorithms,179,223
+Braila,mobile,C# Tutorials,4,5
+Braila,desktop,PAWN Scripting,247,414
+Braila,desktop,Web Development,32,41
+Braila,tablet,PAWN Scripting,1,1
+Braila,mobile,Web Development,6,11
+Braila,desktop,C# Tutorials,31,57
+Braila,tablet,Data Structures,2,5
+Braila,tablet,Baccalaureate Papers,5,5
+Braila,mobile,Landing Pages,18,42
+Braila,tablet,Other,2,3
+Braila,mobile,Search Result Page,0,4
+Braila,tablet,Category Page,1,1
+Braila,mobile,Category Page,0,8
+Braila,desktop,Author Page,2,16
+Braila,tablet,C# Tutorials,1,1
+Brasov,desktop,Solved Problems,2869,7724
+Brasov,tablet,PAWN Scripting,7,8
+Brasov,desktop,Landing Pages,650,4070
+Brasov,mobile,Search Result Page,2,24
+Brasov,desktop,PAWN Scripting,577,939
+Brasov,desktop,Other,558,790
+Brasov,desktop,Search Result Page,38,1142
+Brasov,mobile,Solved Problems,335,653
+Brasov,mobile,Data Structures,253,346
+Brasov,mobile,C# Tutorials,22,34
+Brasov,desktop,Algorithms,9066,11836
+Brasov,mobile,Baccalaureate Papers,439,696
+Brasov,mobile,Other,93,126
+Brasov,mobile,Landing Pages,151,365
+Brasov,mobile,Category Page,16,63
+Brasov,mobile,Web Development,34,49
+Brasov,desktop,Data Structures,2191,3000
+Brasov,tablet,Baccalaureate Papers,35,47
+Brasov,desktop,Category Page,151,670
+Brasov,desktop,Web Development,202,294
+Brasov,desktop,Baccalaureate Papers,2400,4573
+Brasov,desktop,Author Page,12,86
+Brasov,mobile,Algorithms,1064,1405
+Brasov,desktop,C# Tutorials,261,379
+Brasov,tablet,Solved Problems,1,1
+Brasov,tablet,Algorithms,21,24
+Brasov,tablet,Data Structures,12,16
+Brasov,tablet,Landing Pages,4,4
+Brasov,tablet,Web Development,2,9
+Brasov,mobile,PAWN Scripting,82,115
+Brasov,tablet,Category Page,7,12
+Brasov,mobile,Author Page,1,6
+Brasov,tablet,C# Tutorials,2,2
+Brasov,tablet,Other,1,2
+Bucharest,mobile,Other,1095,1393
+Bucharest,desktop,Other,3702,5037
+Bucharest,desktop,Category Page,731,3321
+Bucharest,mobile,Solved Problems,3865,8531
+Bucharest,desktop,Solved Problems,12905,32121
+Bucharest,mobile,PAWN Scripting,750,953
+Bucharest,mobile,Landing Pages,1649,5039
+Bucharest,desktop,Landing Pages,3379,17387
+Bucharest,tablet,Solved Problems,24,97
+Bucharest,tablet,Other,35,48
+Bucharest,mobile,Search Result Page,20,518
+Bucharest,desktop,Search Result Page,133,3331
+Bucharest,desktop,Baccalaureate Papers,11052,21500
+Bucharest,mobile,Category Page,157,602
+Bucharest,mobile,Data Structures,2689,3543
+Bucharest,tablet,Algorithms,267,352
+Bucharest,desktop,Algorithms,39088,50573
+Bucharest,tablet,Baccalaureate Papers,133,263
+Bucharest,desktop,PAWN Scripting,3602,5656
+Bucharest,tablet,Data Structures,69,101
+Bucharest,mobile,Baccalaureate Papers,5497,9464
+Bucharest,mobile,Algorithms,11018,13915
+Bucharest,desktop,Data Structures,10380,13792
+Bucharest,mobile,C# Tutorials,255,395
+Bucharest,desktop,C# Tutorials,1005,1537
+Bucharest,tablet,PAWN Scripting,17,24
+Bucharest,desktop,Web Development,1283,1724
+Bucharest,mobile,Web Development,376,516
+Bucharest,desktop,Author Page,49,378
+Bucharest,tablet,Category Page,4,15
+Bucharest,tablet,C# Tutorials,20,29
+Bucharest,tablet,Web Development,10,10
+Bucharest,tablet,Landing Pages,20,68
+Bucharest,tablet,Author Page,0,2
+Bucharest,tablet,Search Result Page,0,5
+Bucharest,mobile,Author Page,16,82
+Buzau,desktop,Solved Problems,2078,5584
+Buzau,mobile,Solved Problems,373,961
+Buzau,desktop,Baccalaureate Papers,1112,2056
+Buzau,desktop,Landing Pages,389,2555
+Buzau,desktop,Search Result Page,6,432
+Buzau,desktop,Algorithms,3363,4221
+Buzau,mobile,Baccalaureate Papers,162,259
+Buzau,desktop,C# Tutorials,69,101
+Buzau,desktop,Other,219,296
+Buzau,mobile,Algorithms,468,625
+Buzau,mobile,Other,38,45
+Buzau,mobile,Data Structures,89,111
+Buzau,desktop,Web Development,69,101
+Buzau,mobile,PAWN Scripting,70,86
+Buzau,mobile,Landing Pages,91,491
+Buzau,desktop,Category Page,47,227
+Buzau,tablet,Baccalaureate Papers,10,20
+Buzau,mobile,C# Tutorials,11,12
+Buzau,mobile,Category Page,3,31
+Buzau,tablet,Algorithms,7,11
+Buzau,desktop,Data Structures,730,952
+Buzau,desktop,PAWN Scripting,580,889
+Buzau,mobile,Search Result Page,0,20
+Buzau,tablet,PAWN Scripting,4,9
+Buzau,tablet,C# Tutorials,2,3
+Buzau,desktop,Author Page,2,44
+Buzau,mobile,Web Development,31,42
+Buzau,tablet,Solved Problems,5,9
+Buzau,tablet,Web Development,1,1
+Buzau,tablet,Data Structures,1,2
+Buzau,tablet,Landing Pages,1,1
+Buzau,mobile,Author Page,0,1
+Calarasi,desktop,C# Tutorials,29,49
+Calarasi,desktop,Other,114,162
+Calarasi,desktop,Solved Problems,119,364
+Calarasi,desktop,Search Result Page,5,79
+Calarasi,mobile,Solved Problems,23,57
+Calarasi,desktop,Landing Pages,92,333
+Calarasi,desktop,Web Development,31,44
+Calarasi,mobile,Baccalaureate Papers,56,92
+Calarasi,desktop,Baccalaureate Papers,355,731
+Calarasi,mobile,Landing Pages,15,73
+Calarasi,desktop,Category Page,22,129
+Calarasi,desktop,Algorithms,688,949
+Calarasi,tablet,PAWN Scripting,4,5
+Calarasi,mobile,Other,14,19
+Calarasi,desktop,Data Structures,261,345
+Calarasi,mobile,Algorithms,115,155
+Calarasi,tablet,Algorithms,3,9
+Calarasi,desktop,Author Page,1,16
+Calarasi,desktop,PAWN Scripting,324,510
+Calarasi,mobile,Search Result Page,0,4
+Calarasi,mobile,Data Structures,26,34
+Calarasi,tablet,Other,1,1
+Calarasi,mobile,Category Page,1,3
+Calarasi,mobile,C# Tutorials,5,5
+Calarasi,mobile,Web Development,1,4
+Calarasi,mobile,PAWN Scripting,36,46
+Calarasi,tablet,Solved Problems,1,1
+Calarasi,tablet,Baccalaureate Papers,2,2
+Calarasi,tablet,Data Structures,1,1
+Caras-Severin,desktop,Solved Problems,160,304
+Caras-Severin,mobile,Category Page,3,12
+Caras-Severin,tablet,Algorithms,8,8
+Caras-Severin,desktop,Baccalaureate Papers,640,2061
+Caras-Severin,desktop,Data Structures,417,554
+Caras-Severin,mobile,Other,22,37
+Caras-Severin,desktop,Algorithms,1280,1696
+Caras-Severin,mobile,Algorithms,239,319
+Caras-Severin,mobile,Solved Problems,20,27
+Caras-Severin,desktop,Other,112,173
+Caras-Severin,mobile,Baccalaureate Papers,85,156
+Caras-Severin,desktop,C# Tutorials,33,45
+Caras-Severin,desktop,Landing Pages,138,321
+Caras-Severin,mobile,Data Structures,97,119
+Caras-Severin,desktop,PAWN Scripting,250,418
+Caras-Severin,mobile,PAWN Scripting,30,39
+Caras-Severin,desktop,Category Page,30,118
+Caras-Severin,tablet,Baccalaureate Papers,1,1
+Caras-Severin,mobile,Landing Pages,32,49
+Caras-Severin,mobile,C# Tutorials,9,16
+Caras-Severin,desktop,Search Result Page,0,2
+Caras-Severin,tablet,PAWN Scripting,1,2
+Caras-Severin,mobile,Web Development,4,6
+Caras-Severin,tablet,Data Structures,2,2
+Caras-Severin,tablet,C# Tutorials,1,1
+Caras-Severin,desktop,Author Page,2,11
+Caras-Severin,desktop,Web Development,20,31
+Caras-Severin,tablet,Web Development,3,3
+Cluj,desktop,Search Result Page,15,565
+Cluj,desktop,Solved Problems,2381,6935
+Cluj,mobile,Solved Problems,616,1395
+Cluj,mobile,Landing Pages,257,668
+Cluj,mobile,Category Page,20,83
+Cluj,desktop,Baccalaureate Papers,3472,6042
+Cluj,desktop,Other,990,1341
+Cluj,desktop,Landing Pages,814,4658
+Cluj,desktop,Algorithms,14357,18000
+Cluj,mobile,Other,167,206
+Cluj,mobile,Baccalaureate Papers,739,1306
+Cluj,mobile,PAWN Scripting,207,278
+Cluj,desktop,Web Development,228,322
+Cluj,desktop,Data Structures,3232,4115
+Cluj,tablet,Algorithms,60,80
+Cluj,mobile,Web Development,48,69
+Cluj,mobile,Data Structures,484,612
+Cluj,mobile,Algorithms,1963,2466
+Cluj,tablet,Landing Pages,6,8
+Cluj,desktop,Category Page,152,809
+Cluj,mobile,Search Result Page,4,66
+Cluj,tablet,Baccalaureate Papers,18,41
+Cluj,mobile,C# Tutorials,37,59
+Cluj,desktop,C# Tutorials,364,532
+Cluj,desktop,PAWN Scripting,557,872
+Cluj,tablet,Solved Problems,5,10
+Cluj,tablet,Web Development,6,6
+Cluj,tablet,Other,11,14
+Cluj,tablet,Author Page,1,2
+Cluj,tablet,Data Structures,3,5
+Cluj,tablet,Category Page,2,6
+Cluj,mobile,Author Page,2,9
+Cluj,tablet,PAWN Scripting,3,4
+Cluj,desktop,Author Page,17,95
+Cluj,tablet,C# Tutorials,1,1
+Constanta,desktop,Algorithms,4985,6620
+Constanta,mobile,Solved Problems,269,494
+Constanta,desktop,C# Tutorials,101,166
+Constanta,mobile,C# Tutorials,19,25
+Constanta,desktop,Other,432,615
+Constanta,desktop,Solved Problems,794,1794
+Constanta,mobile,Other,83,113
+Constanta,desktop,Landing Pages,423,1608
+Constanta,tablet,Algorithms,35,37
+Constanta,desktop,Author Page,7,48
+Constanta,mobile,PAWN Scripting,114,139
+Constanta,desktop,Search Result Page,6,156
+Constanta,mobile,Algorithms,903,1176
+Constanta,tablet,Solved Problems,3,4
+Constanta,tablet,Baccalaureate Papers,12,21
+Constanta,mobile,Landing Pages,104,276
+Constanta,mobile,Search Result Page,0,35
+Constanta,mobile,Category Page,23,77
+Constanta,desktop,PAWN Scripting,779,1218
+Constanta,mobile,Web Development,15,21
+Constanta,mobile,Data Structures,207,293
+Constanta,desktop,Data Structures,1071,1425
+Constanta,mobile,Baccalaureate Papers,290,502
+Constanta,desktop,Category Page,97,473
+Constanta,tablet,Other,4,4
+Constanta,desktop,Baccalaureate Papers,1376,2644
+Constanta,desktop,Web Development,102,142
+Constanta,mobile,Author Page,0,2
+Constanta,tablet,Category Page,1,2
+Constanta,tablet,PAWN Scripting,6,8
+Constanta,tablet,Web Development,2,2
+Constanta,tablet,C# Tutorials,3,3
+Constanta,tablet,Data Structures,2,2
+Covasna,desktop,Solved Problems,58,142
+Covasna,desktop,Data Structures,106,175
+Covasna,desktop,Algorithms,377,515
+Covasna,desktop,Landing Pages,38,116
+Covasna,mobile,Data Structures,4,4
+Covasna,mobile,Algorithms,29,40
+Covasna,desktop,Web Development,15,22
+Covasna,desktop,Other,40,57
+Covasna,mobile,Category Page,2,12
+Covasna,mobile,Other,4,7
+Covasna,desktop,PAWN Scripting,46,73
+Covasna,desktop,C# Tutorials,5,11
+Covasna,mobile,Baccalaureate Papers,12,20
+Covasna,tablet,Algorithms,1,2
+Covasna,desktop,Category Page,14,51
+Covasna,desktop,Baccalaureate Papers,141,271
+Covasna,desktop,Search Result Page,1,2
+Covasna,desktop,Author Page,1,8
+Covasna,mobile,Landing Pages,5,11
+Covasna,mobile,Web Development,3,7
+Covasna,mobile,Solved Problems,10,15
+Covasna,mobile,PAWN Scripting,6,10
+Dambovita,mobile,Data Structures,100,131
+Dambovita,desktop,Other,247,382
+Dambovita,mobile,Solved Problems,180,355
+Dambovita,desktop,Solved Problems,913,3638
+Dambovita,mobile,C# Tutorials,9,16
+Dambovita,mobile,Algorithms,326,437
+Dambovita,desktop,Search Result Page,4,370
+Dambovita,desktop,Landing Pages,270,3017
+Dambovita,desktop,Category Page,60,247
+Dambovita,desktop,Baccalaureate Papers,1000,1956
+Dambovita,mobile,Category Page,6,30
+Dambovita,desktop,PAWN Scripting,425,700
+Dambovita,mobile,Other,64,78
+Dambovita,mobile,Landing Pages,72,173
+Dambovita,tablet,Algorithms,20,25
+Dambovita,desktop,C# Tutorials,59,89
+Dambovita,desktop,Algorithms,2850,3992
+Dambovita,desktop,Data Structures,814,1162
+Dambovita,desktop,Web Development,76,112
+Dambovita,tablet,Baccalaureate Papers,6,13
+Dambovita,mobile,Search Result Page,0,8
+Dambovita,desktop,Author Page,1,37
+Dambovita,tablet,Data Structures,3,3
+Dambovita,mobile,Baccalaureate Papers,156,256
+Dambovita,mobile,PAWN Scripting,52,63
+Dambovita,mobile,Author Page,0,2
+Dambovita,mobile,Web Development,12,17
+Dambovita,tablet,C# Tutorials,1,1
+Dambovita,tablet,Landing Pages,0,4
+Dambovita,tablet,Solved Problems,1,1
+Dambovita,tablet,Web Development,1,1
+Dambovita,tablet,PAWN Scripting,1,2
+Dolj,desktop,Solved Problems,2056,4665
+Dolj,mobile,Category Page,14,67
+Dolj,mobile,Solved Problems,325,562
+Dolj,desktop,Landing Pages,860,3088
+Dolj,desktop,Other,416,661
+Dolj,desktop,Algorithms,5553,7378
+Dolj,desktop,Search Result Page,10,296
+Dolj,desktop,Category Page,346,802
+Dolj,desktop,Baccalaureate Papers,1864,3861
+Dolj,mobile,Other,78,110
+Dolj,desktop,Web Development,108,138
+Dolj,tablet,Data Structures,9,18
+Dolj,desktop,Data Structures,1459,2026
+Dolj,desktop,Author Page,12,55
+Dolj,desktop,C# Tutorials,138,292
+Dolj,mobile,Algorithms,579,748
+Dolj,mobile,Baccalaureate Papers,255,419
+Dolj,desktop,PAWN Scripting,537,820
+Dolj,mobile,PAWN Scripting,60,81
+Dolj,tablet,Author Page,0,1
+Dolj,mobile,Data Structures,138,187
+Dolj,mobile,C# Tutorials,20,25
+Dolj,mobile,Landing Pages,131,368
+Dolj,tablet,Algorithms,22,24
+Dolj,tablet,Category Page,1,3
+Dolj,tablet,Solved Problems,2,7
+Dolj,tablet,Landing Pages,3,4
+Dolj,tablet,PAWN Scripting,4,4
+Dolj,mobile,Web Development,17,25
+Dolj,mobile,Search Result Page,0,4
+Dolj,tablet,Search Result Page,0,1
+Dolj,tablet,Other,1,1
+Dolj,tablet,Baccalaureate Papers,6,11
+Dolj,tablet,C# Tutorials,0,1
+Dolj,mobile,Author Page,1,4
+Galati,mobile,Algorithms,662,850
+Galati,desktop,Solved Problems,578,1447
+Galati,desktop,PAWN Scripting,736,1219
+Galati,desktop,Algorithms,5337,7126
+Galati,mobile,Solved Problems,219,481
+Galati,desktop,Other,401,603
+Galati,desktop,Landing Pages,551,1604
+Galati,desktop,Baccalaureate Papers,1893,3905
+Galati,mobile,Data Structures,165,205
+Galati,mobile,Search Result Page,0,25
+Galati,mobile,Baccalaureate Papers,325,607
+Galati,mobile,Other,52,71
+Galati,desktop,Data Structures,1300,1732
+Galati,desktop,Category Page,99,476
+Galati,desktop,Search Result Page,6,111
+Galati,desktop,C# Tutorials,103,154
+Galati,mobile,PAWN Scripting,58,87
+Galati,tablet,Algorithms,29,37
+Galati,desktop,Web Development,138,229
+Galati,mobile,Web Development,19,25
+Galati,tablet,Baccalaureate Papers,9,23
+Galati,tablet,Solved Problems,1,1
+Galati,tablet,C# Tutorials,1,3
+Galati,tablet,Data Structures,4,9
+Galati,mobile,Category Page,10,48
+Galati,mobile,Landing Pages,113,310
+Galati,tablet,Other,2,2
+Galati,mobile,C# Tutorials,9,12
+Galati,desktop,Author Page,6,49
+Galati,tablet,Author Page,0,3
+Galati,tablet,PAWN Scripting,3,3
+Galati,tablet,Landing Pages,2,4
+Galati,tablet,Category Page,1,8
+Galati,mobile,Author Page,1,9
+Giurgiu,desktop,Other,47,80
+Giurgiu,desktop,Solved Problems,130,287
+Giurgiu,mobile,Algorithms,70,97
+Giurgiu,desktop,Category Page,17,72
+Giurgiu,desktop,Algorithms,369,490
+Giurgiu,mobile,Baccalaureate Papers,33,53
+Giurgiu,desktop,Search Result Page,9,144
+Giurgiu,desktop,PAWN Scripting,219,301
+Giurgiu,mobile,Landing Pages,15,47
+Giurgiu,mobile,Solved Problems,27,55
+Giurgiu,desktop,Baccalaureate Papers,132,250
+Giurgiu,mobile,Data Structures,21,31
+Giurgiu,desktop,Data Structures,81,110
+Giurgiu,desktop,Landing Pages,48,143
+Giurgiu,mobile,Author Page,0,1
+Giurgiu,mobile,Other,9,24
+Giurgiu,desktop,C# Tutorials,19,37
+Giurgiu,mobile,C# Tutorials,2,2
+Giurgiu,mobile,PAWN Scripting,20,27
+Giurgiu,mobile,Search Result Page,0,10
+Giurgiu,tablet,Algorithms,3,3
+Giurgiu,mobile,Web Development,13,17
+Giurgiu,desktop,Web Development,30,41
+Giurgiu,tablet,Web Development,1,1
+Giurgiu,desktop,Author Page,3,4
+Giurgiu,mobile,Category Page,1,13
+Giurgiu,tablet,Baccalaureate Papers,1,1
+Gorj,mobile,Solved Problems,468,1069
+Gorj,desktop,Solved Problems,2881,7281
+Gorj,desktop,Search Result Page,16,507
+Gorj,desktop,Landing Pages,803,3278
+Gorj,desktop,Other,224,392
+Gorj,desktop,Category Page,72,386
+Gorj,mobile,Search Result Page,6,43
+Gorj,mobile,Landing Pages,109,298
+Gorj,mobile,PAWN Scripting,66,79
+Gorj,mobile,Baccalaureate Papers,362,653
+Gorj,desktop,Web Development,93,139
+Gorj,mobile,Algorithms,509,651
+Gorj,desktop,Algorithms,4007,5257
+Gorj,mobile,Data Structures,111,132
+Gorj,mobile,Other,31,38
+Gorj,desktop,Data Structures,1048,1396
+Gorj,tablet,C# Tutorials,2,3
+Gorj,tablet,Baccalaureate Papers,9,18
+Gorj,desktop,Baccalaureate Papers,1683,3012
+Gorj,mobile,Web Development,7,13
+Gorj,desktop,C# Tutorials,58,128
+Gorj,tablet,Algorithms,4,5
+Gorj,desktop,PAWN Scripting,402,638
+Gorj,mobile,Category Page,7,22
+Gorj,mobile,C# Tutorials,13,22
+Gorj,tablet,Other,3,3
+Gorj,tablet,Data Structures,2,3
+Gorj,desktop,Author Page,6,55
+Gorj,tablet,Solved Problems,1,1
+Gorj,tablet,Web Development,1,1
+Gorj,mobile,Author Page,0,4
+Harghita,desktop,Solved Problems,178,292
+Harghita,mobile,Baccalaureate Papers,25,45
+Harghita,desktop,Other,36,52
+Harghita,desktop,C# Tutorials,6,9
+Harghita,desktop,Algorithms,598,796
+Harghita,desktop,Landing Pages,51,152
+Harghita,desktop,Data Structures,105,162
+Harghita,mobile,Algorithms,25,32
+Harghita,desktop,Baccalaureate Papers,181,475
+Harghita,desktop,Web Development,10,12
+Harghita,desktop,Search Result Page,0,5
+Harghita,desktop,PAWN Scripting,38,55
+Harghita,mobile,Data Structures,3,3
+Harghita,mobile,Solved Problems,4,12
+Harghita,tablet,Other,1,1
+Harghita,tablet,Algorithms,10,12
+Harghita,mobile,Other,1,3
+Harghita,desktop,Category Page,6,30
+Harghita,tablet,Baccalaureate Papers,2,2
+Harghita,mobile,PAWN Scripting,8,9
+Harghita,tablet,C# Tutorials,2,2
+Harghita,mobile,Landing Pages,5,18
+Harghita,mobile,Search Result Page,0,1
+Harghita,mobile,Category Page,1,2
+Harghita,desktop,Author Page,0,8
+Harghita,mobile,Web Development,1,1
+Hunedoara,desktop,Landing Pages,278,1358
+Hunedoara,desktop,Solved Problems,1054,2360
+Hunedoara,mobile,Data Structures,65,85
+Hunedoara,desktop,Other,240,339
+Hunedoara,desktop,Category Page,102,308
+Hunedoara,mobile,Landing Pages,41,152
+Hunedoara,desktop,C# Tutorials,61,97
+Hunedoara,mobile,Solved Problems,148,326
+Hunedoara,mobile,Baccalaureate Papers,211,310
+Hunedoara,desktop,Baccalaureate Papers,1555,3710
+Hunedoara,desktop,Search Result Page,2,122
+Hunedoara,tablet,PAWN Scripting,2,2
+Hunedoara,desktop,Algorithms,2816,3633
+Hunedoara,mobile,Search Result Page,4,59
+Hunedoara,desktop,PAWN Scripting,364,608
+Hunedoara,desktop,Data Structures,805,1061
+Hunedoara,desktop,Author Page,7,36
+Hunedoara,mobile,Algorithms,283,361
+Hunedoara,mobile,Other,21,25
+Hunedoara,mobile,PAWN Scripting,58,70
+Hunedoara,tablet,Algorithms,4,5
+Hunedoara,desktop,Web Development,80,109
+Hunedoara,mobile,Category Page,4,19
+Hunedoara,mobile,Web Development,16,23
+Hunedoara,mobile,C# Tutorials,3,5
+Hunedoara,tablet,Baccalaureate Papers,3,9
+Hunedoara,tablet,Other,1,1
+Hunedoara,tablet,Data Structures,2,4
+Hunedoara,tablet,C# Tutorials,1,1
+Ialomita,mobile,Baccalaureate Papers,55,77
+Ialomita,mobile,Algorithms,211,318
+Ialomita,desktop,Solved Problems,83,191
+Ialomita,desktop,Algorithms,1043,1351
+Ialomita,desktop,C# Tutorials,39,77
+Ialomita,desktop,Category Page,20,136
+Ialomita,desktop,Other,88,107
+Ialomita,mobile,Web Development,13,16
+Ialomita,mobile,Solved Problems,21,35
+Ialomita,desktop,Data Structures,281,362
+Ialomita,desktop,Landing Pages,86,291
+Ialomita,mobile,Category Page,4,19
+Ialomita,desktop,PAWN Scripting,271,432
+Ialomita,mobile,Data Structures,43,58
+Ialomita,desktop,Search Result Page,0,7
+Ialomita,mobile,C# Tutorials,5,9
+Ialomita,desktop,Baccalaureate Papers,304,554
+Ialomita,tablet,Other,2,2
+Ialomita,tablet,Baccalaureate Papers,1,1
+Ialomita,mobile,Other,13,13
+Ialomita,desktop,Web Development,37,49
+Ialomita,mobile,Landing Pages,34,55
+Ialomita,mobile,PAWN Scripting,28,31
+Ialomita,tablet,PAWN Scripting,4,4
+Ialomita,desktop,Author Page,0,5
+Ialomita,tablet,Data Structures,1,1
+Ialomita,tablet,Solved Problems,1,1
+Iasi,desktop,Solved Problems,4983,12383
+Iasi,mobile,Solved Problems,1018,2141
+Iasi,desktop,Search Result Page,32,1009
+Iasi,mobile,PAWN Scripting,146,200
+Iasi,desktop,Landing Pages,1321,7583
+Iasi,desktop,Category Page,268,1197
+Iasi,mobile,Baccalaureate Papers,1075,1795
+Iasi,desktop,Baccalaureate Papers,3982,7572
+Iasi,mobile,C# Tutorials,55,95
+Iasi,desktop,Other,1056,1578
+Iasi,tablet,Solved Problems,20,76
+Iasi,mobile,Algorithms,2243,2904
+Iasi,desktop,Algorithms,14742,18958
+Iasi,tablet,Data Structures,14,21
+Iasi,mobile,Search Result Page,9,80
+Iasi,desktop,Data Structures,3928,5322
+Iasi,tablet,Other,7,13
+Iasi,mobile,Category Page,40,137
+Iasi,mobile,Landing Pages,434,1133
+Iasi,mobile,Other,218,327
+Iasi,desktop,PAWN Scripting,957,1522
+Iasi,tablet,Baccalaureate Papers,24,35
+Iasi,tablet,Algorithms,54,68
+Iasi,desktop,Web Development,395,641
+Iasi,tablet,Landing Pages,10,104
+Iasi,desktop,C# Tutorials,312,461
+Iasi,mobile,Data Structures,594,793
+Iasi,mobile,Web Development,80,132
+Iasi,tablet,C# Tutorials,1,1
+Iasi,desktop,Author Page,23,153
+Iasi,tablet,PAWN Scripting,4,4
+Iasi,mobile,Author Page,5,24
+Iasi,tablet,Category Page,1,2
+Iasi,tablet,Web Development,1,4
+Ilfov,desktop,Algorithms,862,1261
+Ilfov,desktop,Search Result Page,56,313
+Ilfov,desktop,Solved Problems,460,1463
+Ilfov,mobile,Solved Problems,98,218
+Ilfov,mobile,Landing Pages,28,150
+Ilfov,tablet,Algorithms,16,17
+Ilfov,desktop,Landing Pages,441,1141
+Ilfov,mobile,Data Structures,32,46
+Ilfov,desktop,Data Structures,191,287
+Ilfov,desktop,Other,55,161
+Ilfov,mobile,Search Result Page,0,42
+Ilfov,mobile,Category Page,2,11
+Ilfov,desktop,Web Development,16,25
+Ilfov,desktop,Baccalaureate Papers,255,599
+Ilfov,desktop,Category Page,10,96
+Ilfov,mobile,Other,10,15
+Ilfov,mobile,Author Page,2,4
+Ilfov,mobile,PAWN Scripting,9,12
+Ilfov,mobile,Algorithms,110,151
+Ilfov,mobile,Baccalaureate Papers,67,159
+Ilfov,desktop,C# Tutorials,9,33
+Ilfov,desktop,PAWN Scripting,99,158
+Ilfov,mobile,C# Tutorials,3,6
+Ilfov,desktop,Author Page,3,27
+Ilfov,mobile,Web Development,3,3
+Ilfov,tablet,Web Development,1,4
+Ilfov,tablet,Solved Problems,4,7
+Maramures,desktop,Landing Pages,541,2271
+Maramures,desktop,Solved Problems,1875,4273
+Maramures,desktop,Baccalaureate Papers,1608,3349
+Maramures,desktop,Category Page,106,531
+Maramures,desktop,Other,351,537
+Maramures,mobile,Solved Problems,231,641
+Maramures,desktop,Search Result Page,1,247
+Maramures,tablet,PAWN Scripting,3,5
+Maramures,desktop,PAWN Scripting,447,748
+Maramures,mobile,Algorithms,457,595
+Maramures,mobile,Data Structures,130,170
+Maramures,mobile,Search Result Page,1,37
+Maramures,desktop,Data Structures,1269,1736
+Maramures,mobile,Other,47,64
+Maramures,desktop,Web Development,103,154
+Maramures,desktop,Algorithms,4225,5717
+Maramures,mobile,Web Development,15,20
+Maramures,desktop,Author Page,2,46
+Maramures,mobile,Baccalaureate Papers,181,273
+Maramures,mobile,Landing Pages,69,345
+Maramures,desktop,C# Tutorials,84,146
+Maramures,mobile,C# Tutorials,5,10
+Maramures,mobile,PAWN Scripting,56,68
+Maramures,tablet,Baccalaureate Papers,6,10
+Maramures,tablet,Other,1,1
+Maramures,mobile,Category Page,2,26
+Maramures,mobile,Author Page,1,3
+Maramures,tablet,Algorithms,21,25
+Maramures,tablet,Data Structures,2,3
+Maramures,tablet,Web Development,1,2
+Maramures,tablet,Category Page,0,1
+Mehedinti,mobile,Other,38,67
+Mehedinti,mobile,Algorithms,142,200
+Mehedinti,desktop,Author Page,3,30
+Mehedinti,desktop,Baccalaureate Papers,430,1037
+Mehedinti,desktop,Solved Problems,199,432
+Mehedinti,desktop,Other,142,396
+Mehedinti,desktop,Landing Pages,388,1041
+Mehedinti,desktop,C# Tutorials,64,212
+Mehedinti,desktop,Algorithms,1265,1751
+Mehedinti,mobile,Solved Problems,46,83
+Mehedinti,mobile,Baccalaureate Papers,86,176
+Mehedinti,mobile,Category Page,1,13
+Mehedinti,desktop,Search Result Page,2,23
+Mehedinti,desktop,Category Page,37,296
+Mehedinti,mobile,Search Result Page,0,4
+Mehedinti,desktop,Data Structures,355,568
+Mehedinti,desktop,PAWN Scripting,214,377
+Mehedinti,desktop,Web Development,49,79
+Mehedinti,mobile,Data Structures,47,64
+Mehedinti,tablet,Algorithms,6,6
+Mehedinti,mobile,Web Development,16,19
+Mehedinti,tablet,PAWN Scripting,4,5
+Mehedinti,mobile,PAWN Scripting,43,59
+Mehedinti,mobile,Landing Pages,59,119
+Mehedinti,tablet,Baccalaureate Papers,3,3
+Mehedinti,mobile,C# Tutorials,9,20
+Mehedinti,mobile,Author Page,1,5
+Mehedinti,tablet,C# Tutorials,0,1
+Mehedinti,tablet,Other,0,1
+Mehedinti,tablet,Landing Pages,1,3
+Mehedinti,tablet,Author Page,1,4
+Mures,tablet,Algorithms,7,9
+Mures,mobile,Solved Problems,222,447
+Mures,desktop,Search Result Page,1,254
+Mures,desktop,Solved Problems,1407,3325
+Mures,mobile,PAWN Scripting,40,49
+Mures,desktop,Landing Pages,344,1582
+Mures,desktop,Algorithms,3086,4085
+Mures,desktop,C# Tutorials,62,90
+Mures,desktop,Category Page,52,261
+Mures,desktop,Data Structures,725,939
+Mures,tablet,Solved Problems,2,23
+Mures,mobile,Landing Pages,43,165
+Mures,desktop,Baccalaureate Papers,843,1556
+Mures,mobile,Algorithms,267,338
+Mures,mobile,Baccalaureate Papers,107,199
+Mures,desktop,PAWN Scripting,329,493
+Mures,mobile,Data Structures,54,69
+Mures,desktop,Other,219,328
+Mures,desktop,Web Development,48,79
+Mures,mobile,Other,38,52
+Mures,mobile,Search Result Page,0,6
+Mures,desktop,Author Page,5,36
+Mures,mobile,Web Development,3,5
+Mures,mobile,C# Tutorials,12,17
+Mures,tablet,Search Result Page,1,1
+Mures,tablet,Landing Pages,0,14
+Mures,mobile,Author Page,0,1
+Mures,tablet,Baccalaureate Papers,5,8
+Mures,mobile,Category Page,6,19
+Mures,tablet,C# Tutorials,1,1
+Mures,tablet,Author Page,0,1
+Mures,tablet,Data Structures,2,2
+Neamt,desktop,Algorithms,4728,6138
+Neamt,mobile,Solved Problems,376,743
+Neamt,desktop,Solved Problems,2156,5288
+Neamt,desktop,Baccalaureate Papers,1597,3067
+Neamt,desktop,Data Structures,1023,1376
+Neamt,desktop,Search Result Page,60,353
+Neamt,desktop,Other,272,416
+Neamt,desktop,Landing Pages,597,3100
+Neamt,mobile,Data Structures,106,148
+Neamt,mobile,Algorithms,595,800
+Neamt,mobile,Other,52,77
+Neamt,tablet,Baccalaureate Papers,16,25
+Neamt,desktop,Category Page,75,410
+Neamt,tablet,Algorithms,26,31
+Neamt,desktop,C# Tutorials,73,116
+Neamt,mobile,Baccalaureate Papers,337,550
+Neamt,desktop,PAWN Scripting,362,610
+Neamt,mobile,Landing Pages,111,244
+Neamt,mobile,Search Result Page,1,15
+Neamt,mobile,Category Page,9,42
+Neamt,tablet,Author Page,0,2
+Neamt,mobile,PAWN Scripting,35,41
+Neamt,desktop,Web Development,119,179
+Neamt,mobile,C# Tutorials,9,13
+Neamt,tablet,Solved Problems,2,4
+Neamt,mobile,Web Development,9,11
+Neamt,tablet,Other,3,7
+Neamt,desktop,Author Page,8,46
+Neamt,mobile,Author Page,1,5
+Neamt,tablet,Data Structures,5,8
+Neamt,tablet,Category Page,1,1
+Neamt,tablet,C# Tutorials,2,2
+Neamt,tablet,Web Development,1,2
+Neamt,tablet,Landing Pages,2,3
+Olt,mobile,Solved Problems,128,227
+Olt,desktop,Solved Problems,455,1116
+Olt,desktop,Algorithms,2352,3105
+Olt,desktop,Landing Pages,203,854
+Olt,desktop,Category Page,37,146
+Olt,desktop,PAWN Scripting,379,629
+Olt,mobile,Baccalaureate Papers,150,238
+Olt,desktop,Data Structures,473,642
+Olt,desktop,Search Result Page,4,54
+Olt,mobile,PAWN Scripting,62,80
+Olt,mobile,Data Structures,66,79
+Olt,mobile,Other,32,41
+Olt,desktop,Baccalaureate Papers,602,1083
+Olt,desktop,Other,167,226
+Olt,mobile,Algorithms,299,401
+Olt,desktop,C# Tutorials,35,58
+Olt,desktop,Author Page,3,21
+Olt,desktop,Web Development,32,58
+Olt,mobile,Landing Pages,52,128
+Olt,tablet,PAWN Scripting,4,5
+Olt,mobile,Web Development,12,12
+Olt,mobile,Search Result Page,0,1
+Olt,tablet,Baccalaureate Papers,5,6
+Olt,mobile,C# Tutorials,8,11
+Olt,tablet,Algorithms,4,7
+Olt,mobile,Category Page,5,30
+Olt,tablet,Data Structures,3,3
+Olt,tablet,Other,3,3
+Olt,mobile,Author Page,0,4
+Prahova,desktop,Solved Problems,3111,7343
+Prahova,desktop,Search Result Page,26,616
+Prahova,desktop,Baccalaureate Papers,2724,5008
+Prahova,desktop,Algorithms,8679,11646
+Prahova,desktop,Other,617,949
+Prahova,mobile,Solved Problems,491,1059
+Prahova,desktop,Landing Pages,836,4203
+Prahova,desktop,PAWN Scripting,1093,1730
+Prahova,mobile,Category Page,7,33
+Prahova,tablet,Baccalaureate Papers,31,65
+Prahova,desktop,Data Structures,2018,2834
+Prahova,mobile,Data Structures,227,282
+Prahova,mobile,Algorithms,1105,1392
+Prahova,tablet,Algorithms,51,60
+Prahova,mobile,Landing Pages,174,501
+Prahova,mobile,C# Tutorials,20,24
+Prahova,tablet,Solved Problems,5,6
+Prahova,mobile,Web Development,30,40
+Prahova,desktop,Category Page,141,719
+Prahova,tablet,Landing Pages,4,25
+Prahova,mobile,Other,96,121
+Prahova,mobile,PAWN Scripting,102,127
+Prahova,tablet,C# Tutorials,1,4
+Prahova,mobile,Search Result Page,0,18
+Prahova,mobile,Baccalaureate Papers,526,934
+Prahova,tablet,PAWN Scripting,7,10
+Prahova,desktop,Web Development,166,234
+Prahova,desktop,C# Tutorials,182,287
+Prahova,desktop,Author Page,7,66
+Prahova,tablet,Other,2,3
+Prahova,tablet,Data Structures,3,9
+Prahova,tablet,Category Page,2,6
+Prahova,tablet,Author Page,1,2
+Prahova,tablet,Web Development,4,4
+Prahova,mobile,Author Page,0,4
+Salaj,desktop,Other,88,155
+Salaj,desktop,Solved Problems,492,1216
+Salaj,desktop,C# Tutorials,29,62
+Salaj,mobile,Solved Problems,35,68
+Salaj,desktop,Landing Pages,179,802
+Salaj,desktop,Data Structures,492,666
+Salaj,desktop,Category Page,29,159
+Salaj,mobile,Algorithms,130,146
+Salaj,desktop,Search Result Page,1,41
+Salaj,desktop,Baccalaureate Papers,745,1254
+Salaj,mobile,Data Structures,42,55
+Salaj,mobile,Baccalaureate Papers,65,103
+Salaj,desktop,PAWN Scripting,86,128
+Salaj,desktop,Algorithms,1722,2257
+Salaj,mobile,Other,12,15
+Salaj,mobile,C# Tutorials,4,6
+Salaj,tablet,C# Tutorials,0,1
+Salaj,mobile,Category Page,1,6
+Salaj,desktop,Author Page,2,27
+Salaj,mobile,PAWN Scripting,5,5
+Salaj,tablet,Baccalaureate Papers,2,4
+Salaj,mobile,Landing Pages,17,32
+Salaj,mobile,Web Development,1,2
+Salaj,desktop,Web Development,18,27
+Salaj,tablet,Algorithms,2,3
+Salaj,mobile,Author Page,0,3
+Satu Mare,desktop,Solved Problems,929,2715
+Satu Mare,mobile,Algorithms,239,375
+Satu Mare,mobile,Category Page,8,15
+Satu Mare,desktop,Algorithms,2389,3055
+Satu Mare,mobile,Solved Problems,135,288
+Satu Mare,desktop,Search Result Page,7,372
+Satu Mare,desktop,Data Structures,587,764
+Satu Mare,desktop,Baccalaureate Papers,1080,1922
+Satu Mare,desktop,PAWN Scripting,154,273
+Satu Mare,desktop,Web Development,29,40
+Satu Mare,mobile,Data Structures,64,89
+Satu Mare,desktop,Author Page,2,36
+Satu Mare,desktop,Other,123,190
+Satu Mare,desktop,Landing Pages,177,2125
+Satu Mare,desktop,Category Page,40,162
+Satu Mare,tablet,Algorithms,12,15
+Satu Mare,mobile,Search Result Page,2,26
+Satu Mare,tablet,Other,1,1
+Satu Mare,mobile,Baccalaureate Papers,172,312
+Satu Mare,tablet,Baccalaureate Papers,11,18
+Satu Mare,mobile,Other,12,14
+Satu Mare,tablet,PAWN Scripting,1,2
+Satu Mare,tablet,Landing Pages,0,4
+Satu Mare,desktop,C# Tutorials,28,41
+Satu Mare,tablet,Data Structures,3,5
+Satu Mare,mobile,PAWN Scripting,13,17
+Satu Mare,mobile,C# Tutorials,4,7
+Satu Mare,mobile,Landing Pages,40,118
+Satu Mare,tablet,Category Page,0,2
+Satu Mare,mobile,Web Development,3,4
+Satu Mare,tablet,Author Page,0,2
+Sibiu,desktop,Web Development,91,135
+Sibiu,desktop,PAWN Scripting,261,450
+Sibiu,desktop,Search Result Page,17,265
+Sibiu,desktop,Solved Problems,530,1490
+Sibiu,desktop,Category Page,62,320
+Sibiu,desktop,Landing Pages,265,1366
+Sibiu,desktop,Algorithms,4573,5897
+Sibiu,desktop,Baccalaureate Papers,1242,2333
+Sibiu,mobile,Algorithms,520,663
+Sibiu,mobile,Other,53,73
+Sibiu,tablet,Baccalaureate Papers,13,21
+Sibiu,desktop,C# Tutorials,217,306
+Sibiu,mobile,Landing Pages,75,164
+Sibiu,mobile,Web Development,21,29
+Sibiu,tablet,Algorithms,25,39
+Sibiu,mobile,Data Structures,142,195
+Sibiu,mobile,Solved Problems,64,143
+Sibiu,mobile,Search Result Page,1,54
+Sibiu,desktop,Other,319,435
+Sibiu,mobile,PAWN Scripting,35,42
+Sibiu,mobile,Baccalaureate Papers,231,393
+Sibiu,mobile,Author Page,2,12
+Sibiu,desktop,Data Structures,1240,1612
+Sibiu,tablet,Data Structures,5,9
+Sibiu,mobile,C# Tutorials,12,24
+Sibiu,mobile,Category Page,7,42
+Sibiu,tablet,Other,1,2
+Sibiu,desktop,Author Page,7,38
+Sibiu,tablet,Category Page,0,1
+Sibiu,tablet,PAWN Scripting,2,2
+Sibiu,tablet,Landing Pages,4,7
+Sibiu,tablet,C# Tutorials,1,2
+Suceava,desktop,Other,462,688
+Suceava,desktop,Search Result Page,41,669
+Suceava,desktop,Solved Problems,2179,5828
+Suceava,mobile,Solved Problems,370,881
+Suceava,desktop,PAWN Scripting,574,910
+Suceava,mobile,Baccalaureate Papers,441,737
+Suceava,desktop,Category Page,124,516
+Suceava,tablet,Baccalaureate Papers,23,53
+Suceava,desktop,Algorithms,8007,10120
+Suceava,mobile,Web Development,21,33
+Suceava,mobile,Landing Pages,112,319
+Suceava,mobile,Search Result Page,0,21
+Suceava,desktop,Landing Pages,750,3675
+Suceava,desktop,Web Development,112,151
+Suceava,mobile,Category Page,8,36
+Suceava,desktop,Baccalaureate Papers,3232,6367
+Suceava,desktop,Data Structures,1860,2481
+Suceava,tablet,Algorithms,28,41
+Suceava,mobile,Algorithms,671,850
+Suceava,tablet,Landing Pages,7,76
+Suceava,tablet,PAWN Scripting,2,3
+Suceava,desktop,C# Tutorials,98,149
+Suceava,desktop,Author Page,10,67
+Suceava,mobile,Other,75,119
+Suceava,tablet,Solved Problems,0,12
+Suceava,mobile,PAWN Scripting,73,103
+Suceava,mobile,Data Structures,186,245
+Suceava,tablet,Data Structures,4,9
+Suceava,mobile,C# Tutorials,13,21
+Suceava,tablet,Category Page,4,18
+Suceava,tablet,Author Page,0,1
+Suceava,mobile,Author Page,1,3
+Suceava,tablet,C# Tutorials,1,1
+Suceava,tablet,Web Development,1,1
+Suceava,tablet,Other,0,1
+Teleorman,desktop,Solved Problems,164,450
+Teleorman,mobile,Baccalaureate Papers,61,92
+Teleorman,desktop,Other,82,120
+Teleorman,desktop,C# Tutorials,27,57
+Teleorman,desktop,Algorithms,1027,1388
+Teleorman,desktop,Search Result Page,2,33
+Teleorman,desktop,Baccalaureate Papers,399,868
+Teleorman,mobile,Algorithms,271,358
+Teleorman,desktop,Landing Pages,140,519
+Teleorman,mobile,Solved Problems,52,101
+Teleorman,mobile,Other,19,25
+Teleorman,desktop,PAWN Scripting,400,587
+Teleorman,mobile,Data Structures,49,66
+Teleorman,desktop,Category Page,42,166
+Teleorman,desktop,Web Development,24,39
+Teleorman,mobile,C# Tutorials,3,4
+Teleorman,mobile,PAWN Scripting,29,39
+Teleorman,mobile,Category Page,1,5
+Teleorman,desktop,Data Structures,282,449
+Teleorman,mobile,Search Result Page,0,1
+Teleorman,tablet,Baccalaureate Papers,2,4
+Teleorman,tablet,Algorithms,5,8
+Teleorman,tablet,Author Page,0,1
+Teleorman,tablet,Data Structures,2,2
+Teleorman,tablet,Category Page,0,1
+Teleorman,desktop,Author Page,4,10
+Teleorman,mobile,Landing Pages,24,48
+Teleorman,mobile,Web Development,9,15
+Teleorman,tablet,Other,1,1
+Timis,mobile,Data Structures,652,826
+Timis,desktop,Other,864,1424
+Timis,mobile,Web Development,125,172
+Timis,desktop,Solved Problems,2589,6096
+Timis,desktop,Search Result Page,54,1096
+Timis,mobile,Solved Problems,907,2010
+Timis,desktop,Landing Pages,1254,4323
+Timis,mobile,Landing Pages,573,1381
+Timis,tablet,Baccalaureate Papers,14,25
+Timis,desktop,PAWN Scripting,834,1381
+Timis,tablet,Algorithms,62,103
+Timis,desktop,Algorithms,10444,13798
+Timis,mobile,Category Page,43,165
+Timis,mobile,Other,256,354
+Timis,tablet,PAWN Scripting,3,5
+Timis,mobile,Search Result Page,3,95
+Timis,desktop,Data Structures,2804,3762
+Timis,mobile,C# Tutorials,57,101
+Timis,tablet,Other,13,16
+Timis,mobile,Algorithms,2522,3304
+Timis,desktop,Category Page,161,910
+Timis,mobile,Baccalaureate Papers,1332,2349
+Timis,desktop,Baccalaureate Papers,3174,6567
+Timis,tablet,Solved Problems,6,10
+Timis,mobile,Author Page,4,28
+Timis,desktop,Web Development,291,465
+Timis,mobile,PAWN Scripting,148,194
+Timis,desktop,C# Tutorials,321,453
+Timis,tablet,Data Structures,13,19
+Timis,tablet,C# Tutorials,7,10
+Timis,tablet,Landing Pages,5,17
+Timis,tablet,Web Development,4,4
+Timis,desktop,Author Page,29,163
+Timis,tablet,Category Page,0,6
+Tulcea,desktop,Solved Problems,179,806
+Tulcea,desktop,Search Result Page,0,22
+Tulcea,desktop,C# Tutorials,22,37
+Tulcea,desktop,Baccalaureate Papers,407,790
+Tulcea,desktop,PAWN Scripting,208,306
+Tulcea,desktop,Data Structures,251,339
+Tulcea,mobile,Data Structures,23,40
+Tulcea,tablet,Algorithms,6,7
+Tulcea,desktop,Category Page,19,98
+Tulcea,mobile,Algorithms,58,93
+Tulcea,mobile,Baccalaureate Papers,49,87
+Tulcea,desktop,Algorithms,894,1216
+Tulcea,desktop,Landing Pages,69,794
+Tulcea,mobile,Other,16,24
+Tulcea,desktop,Other,91,135
+Tulcea,desktop,Web Development,18,26
+Tulcea,mobile,Author Page,2,2
+Tulcea,tablet,Baccalaureate Papers,15,34
+Tulcea,mobile,PAWN Scripting,18,22
+Tulcea,mobile,Web Development,1,2
+Tulcea,mobile,C# Tutorials,2,3
+Tulcea,mobile,Solved Problems,4,5
+Tulcea,desktop,Author Page,1,9
+Tulcea,tablet,Data Structures,2,2
+Tulcea,tablet,Other,2,2
+Tulcea,mobile,Category Page,1,4
+Tulcea,mobile,Landing Pages,11,18
+Valcea,desktop,Solved Problems,2038,4459
+Valcea,mobile,Solved Problems,358,941
+Valcea,desktop,Search Result Page,28,291
+Valcea,desktop,Algorithms,2843,3589
+Valcea,desktop,Other,183,268
+Valcea,mobile,Category Page,4,15
+Valcea,mobile,Other,29,32
+Valcea,mobile,Data Structures,116,148
+Valcea,mobile,Landing Pages,141,537
+Valcea,desktop,C# Tutorials,53,95
+Valcea,desktop,Landing Pages,336,1669
+Valcea,desktop,Baccalaureate Papers,1131,2300
+Valcea,desktop,Data Structures,749,954
+Valcea,tablet,Algorithms,4,4
+Valcea,desktop,Category Page,97,302
+Valcea,mobile,Baccalaureate Papers,188,392
+Valcea,mobile,Search Result Page,1,33
+Valcea,mobile,C# Tutorials,14,22
+Valcea,desktop,Web Development,75,102
+Valcea,mobile,Web Development,12,18
+Valcea,tablet,Data Structures,3,4
+Valcea,mobile,Algorithms,322,427
+Valcea,tablet,Web Development,1,4
+Valcea,desktop,PAWN Scripting,381,600
+Valcea,desktop,Author Page,3,29
+Valcea,tablet,Baccalaureate Papers,4,6
+Valcea,mobile,PAWN Scripting,45,52
+Valcea,mobile,Author Page,0,1
+Valcea,tablet,Solved Problems,1,1
+Valcea,tablet,Other,1,1
+Valcea,tablet,Landing Pages,0,3
+Vaslui,desktop,Solved Problems,1931,4932
+Vaslui,desktop,Landing Pages,463,2466
+Vaslui,mobile,Solved Problems,239,600
+Vaslui,desktop,Search Result Page,5,322
+Vaslui,mobile,Other,30,44
+Vaslui,tablet,Solved Problems,10,87
+Vaslui,desktop,C# Tutorials,37,59
+Vaslui,desktop,Other,163,253
+Vaslui,desktop,Baccalaureate Papers,902,1587
+Vaslui,mobile,Data Structures,90,104
+Vaslui,desktop,Category Page,44,186
+Vaslui,mobile,PAWN Scripting,26,35
+Vaslui,desktop,Algorithms,2357,3083
+Vaslui,mobile,Baccalaureate Papers,105,160
+Vaslui,mobile,Search Result Page,0,46
+Vaslui,mobile,C# Tutorials,1,4
+Vaslui,mobile,Landing Pages,87,329
+Vaslui,tablet,Landing Pages,1,68
+Vaslui,tablet,Baccalaureate Papers,3,5
+Vaslui,desktop,Data Structures,560,719
+Vaslui,desktop,PAWN Scripting,266,456
+Vaslui,mobile,Algorithms,214,290
+Vaslui,tablet,Data Structures,5,6
+Vaslui,tablet,PAWN Scripting,1,1
+Vaslui,mobile,Category Page,2,15
+Vaslui,desktop,Web Development,44,53
+Vaslui,desktop,Author Page,4,31
+Vaslui,mobile,Web Development,7,9
+Vaslui,mobile,Author Page,0,3
+Vaslui,tablet,Algorithms,3,3
+Vaslui,tablet,Author Page,0,2
+Vrancea,desktop,Search Result Page,3,141
+Vrancea,mobile,Baccalaureate Papers,111,214
+Vrancea,desktop,Solved Problems,1140,3007
+Vrancea,mobile,Solved Problems,168,302
+Vrancea,mobile,Category Page,11,29
+Vrancea,mobile,Algorithms,199,237
+Vrancea,desktop,Algorithms,2009,2623
+Vrancea,tablet,Baccalaureate Papers,10,18
+Vrancea,desktop,Baccalaureate Papers,768,1318
+Vrancea,mobile,PAWN Scripting,39,46
+Vrancea,mobile,Landing Pages,26,113
+Vrancea,desktop,Landing Pages,290,1808
+Vrancea,mobile,Data Structures,57,70
+Vrancea,desktop,PAWN Scripting,294,467
+Vrancea,desktop,Other,167,226
+Vrancea,desktop,Web Development,53,103
+Vrancea,mobile,Search Result Page,0,17
+Vrancea,desktop,Data Structures,411,534
+Vrancea,desktop,Author Page,3,27
+Vrancea,desktop,C# Tutorials,35,56
+Vrancea,tablet,PAWN Scripting,1,1
+Vrancea,mobile,Web Development,9,10
+Vrancea,mobile,Other,28,34
+Vrancea,tablet,Data Structures,1,3
+Vrancea,desktop,Category Page,27,154
+Vrancea,mobile,C# Tutorials,5,8
+Vrancea,tablet,Other,0,1
+Vrancea,tablet,Algorithms,3,4
+Vrancea,mobile,Author Page,1,3
